@@ -1,6 +1,9 @@
 # TIM 6 - JSD
-Marko Purić R2 38/2021
-Dimitrije Đolai Žarković R2 17/2021
+Marko Purić - R2 38/2021 |
+Dimitrije Đolai Žarković - R2 17/2021
 # Project overview:
-  # Main idea
-    Main idea for this project is to create domain specific language with textX and python which will be used for giving commands for     image editing in our Image Editor python desktop application.
+# Main idea
+Main idea for this project is to create domain specific language with textX and python which will be used for giving commands for     image editing in our Image Editor python desktop application.
+# Image editing
+Image editing implies open new image, save image, save as, crop, and some other classic image editor functionalities which will be triggered by giving commands with our language specifically defined for this domain.
+
